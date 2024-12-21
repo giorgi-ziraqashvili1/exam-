@@ -1,0 +1,32 @@
+body{
+    background-color: #333;
+    text-align: center;
+}
+
+h1{
+    color:#12413D;
+
+}
+
+a{
+    color:#E5E5E5;
+
+}
+
+img{
+    width: 590px;
+    background-color: #091a18;
+    border:3px #091a18 solid;
+   
+
+}
+
+b{
+    color:rgb(167, 44, 44)
+
+}
+
+button{
+    color:aquamarine
+}
+
